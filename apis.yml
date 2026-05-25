@@ -1,0 +1,102 @@
+aid: legora-ai
+name: Legora
+description: >-
+  Legora is a Stockholm, Sweden-based collaborative AI workspace for lawyers,
+  founded in 2023 as Leya by Max Junestrand (CEO), Sigge Labor (CTO), and
+  August Erséus, and rebranded to Legora in 2025. The platform delivers an
+  agentic operating system, Legora aOS, that helps law firms and in-house
+  legal teams execute document review, legal research, drafting, advisory
+  work, and regulatory monitoring at scale. Core product surfaces include
+  Agent (end-to-end execution of complex legal work), Monitors (regulatory
+  change tracking), Lists (workflow organization), Tabular Review, Workflows,
+  Legal Research, Portal, Editor, a Word Add-in, an Outlook Add-in, and a
+  mobile app, with practice-area solutions spanning M&A, litigation, banking,
+  tax, and insurance. Legora is built on Azure OpenAI Service, holds ISO
+  42001, ISO 27001, and SOC 2 Type II certifications, operates under GDPR
+  with EU and US data residency options, supports BYOK encryption, and
+  commits not to train AI models on customer data. The company closed a
+  $550M Series D led by Accel in March 2026 at a $5.55B valuation. Legora's
+  commercial model is enterprise SaaS sold to law firms and in-house teams;
+  there is no public developer API, SDK, OpenAPI specification, GitHub
+  organization, or open-source release for the Legora platform.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Legal Tech
+  - LegalTech
+  - Artificial Intelligence
+  - AI Workspace
+  - AI for Lawyers
+  - Law Firms
+  - In-House Legal
+  - Document Review
+  - Legal Research
+  - Drafting
+  - Contract Review
+  - Regulatory Monitoring
+  - Agentic AI
+  - Generative AI
+  - Sweden
+  - Stockholm
+  - Enterprise SaaS
+url: https://raw.githubusercontent.com/api-evangelist/legora-ai/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://legora.com
+  - type: Product
+    url: https://legora.com/product
+  - type: Agent
+    url: https://legora.com/agent
+  - type: Monitors
+    url: https://legora.com/monitors
+  - type: Lists
+    url: https://legora.com/lists
+  - type: TabularReview
+    url: https://legora.com/tabular-review
+  - type: Workflows
+    url: https://legora.com/workflows
+  - type: LegalResearch
+    url: https://legora.com/legal-research
+  - type: WordAddIn
+    url: https://legora.com/word-add-in
+  - type: OutlookAddIn
+    url: https://legora.com/outlook-add-in
+  - type: MobileApp
+    url: https://legora.com/mobile-app
+  - type: Solutions
+    url: https://legora.com/solutions
+  - type: Customers
+    url: https://legora.com/customers
+  - type: Security
+    url: https://legora.com/security
+  - type: Trust
+    url: https://legora.com/trust
+  - type: Company
+    url: https://legora.com/company
+  - type: Newsroom
+    url: https://legora.com/newsroom
+  - type: Blog
+    url: https://legora.com/blog
+  - type: Careers
+    url: https://legora.com/careers
+  - type: Contact
+    url: https://legora.com/contact-us
+  - type: Twitter
+    url: https://x.com/WeAreLegora
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/wearelegora/
+  - type: YouTube
+    url: https://www.youtube.com/@WeAreLegora
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/leya-876d
+  - type: YCombinator
+    url: https://www.ycombinator.com/companies/legora
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
