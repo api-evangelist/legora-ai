@@ -59,7 +59,7 @@ common:
     url: https://legora.com/lists
   - type: TabularReview
     url: https://legora.com/tabular-review
-  - type: Workflows
+  - type: Workflow
     url: https://legora.com/workflows
   - type: LegalResearch
     url: https://legora.com/legal-research
