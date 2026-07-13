@@ -2,13 +2,14 @@
   "repo": "legora-ai",
   "feeds": [
     {
-      "source": "https://legora.com/blog",
-      "feed_url": "",
-      "saved": 1,
-      "method": "agent-scrape"
+      "source": "https://legora.com/newsroom",
+      "feed_url": "https://legora.com/newsroom",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
-  "post_count": 7,
-  "fetched": "2026-06-27T12:51:39Z",
-  "agent_pulled": "2026-06-27"
+  "post_count": 9,
+  "fetched": "2026-07-11T11:50:51Z",
+  "agent_pulled": "2026-07-04"
 }
